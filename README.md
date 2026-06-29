@@ -1,0 +1,1 @@
+here ı strugled with creating this game a lot because in python, ı have all built-in functions but in c ı do not have so ı have to code them and this caused me to confuse but next ı tried to build all necessary functions like in and thanks to them ı succeded
